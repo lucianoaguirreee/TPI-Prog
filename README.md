@@ -50,7 +50,7 @@ pip install graphviz
 ## 🚀 Uso
 
 ```bash
-python arbol_bst.py
+python TPI.py
 ```
 
 ### Menú Interactivo
@@ -122,8 +122,7 @@ El programa crea automáticamente:
 
 ## 🔗 Enlaces
 
-- **Video explicativo:** [LINK VIDEO INSERTAR]
-- **Repositorio:** [LINK REPOSITORIO INSERTAR]
+- **Video explicativo:** [Ver demostración en YouTube](https://youtu.be/AQ6T6Xx5PpU)
 
 ## 👥 Autores
 
